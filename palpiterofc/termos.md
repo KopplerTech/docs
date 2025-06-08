@@ -3,14 +3,6 @@
 **Última atualização:** 08/06/2025  
 Estes Termos e Condições (“**Termos**”) regulam o uso do aplicativo móvel, site, API, bots e demais serviços controlados pelo Palpitero FC (“**Palpitero**”, “**nós**” ou “**nosso**”). Ao criar uma conta ou utilizar qualquer funcionalidade, **você declara ter lido, entendido e aceitado** integralmente estes Termos.
 
-> **Resumo não-jurídico (apenas para facilitar a leitura):**  
-> • O Palpitero existe para diversão – não é plataforma de apostas nem garante prêmios.  
-> • Você continua dono dos seus dados, mas nos dá licença para exibí-los dentro do app.  
-> • Cada grupo pode estabelecer seus próprios prêmios sob inteira responsabilidade do criador.  
-> • Se alguém fizer bobagem (spam, ofensa, fraude) poderá ser banido e responder por isso.  
-> • Nós podemos alterar qualquer parte do serviço a qualquer momento.  
-> **O texto completo abaixo é o que vale juridicamente.**
-
 ---
 
 ## 1. Elegibilidade, Responsabilidade e Conformidade Legal
