@@ -1,79 +1,81 @@
-# Termos e Condições de Uso do Palpitero FC
+# Termos e Condições de Uso – **Palpitero FC**
 
-**Data de Vigência:** 13/11/2024
+**Última atualização:** 08/06/2025  
+Estes Termos e Condições (“**Termos**”) regulam o uso do aplicativo móvel, site, API, bots e demais serviços controlados pelo Palpitero FC (“**Palpitero**”, “**nós**” ou “**nosso**”). Ao criar uma conta ou utilizar qualquer funcionalidade, **você declara ter lido, entendido e aceitado** integralmente estes Termos.
 
-Bem-vindo ao Palpitero FC. Ao acessar ou utilizar nossos serviços, você concorda em cumprir estes Termos e Condições de Uso. Por favor, leia atentamente antes de prosseguir.
+> **Resumo não-jurídico (apenas para facilitar a leitura):**  
+> • O Palpitero existe para diversão – não é plataforma de apostas nem garante prêmios.  
+> • Você continua dono dos seus dados, mas nos dá licença para exibí-los dentro do app.  
+> • Cada grupo pode estabelecer seus próprios prêmios sob inteira responsabilidade do criador.  
+> • Se alguém fizer bobagem (spam, ofensa, fraude) poderá ser banido e responder por isso.  
+> • Nós podemos alterar qualquer parte do serviço a qualquer momento.  
+> **O texto completo abaixo é o que vale juridicamente.**
 
-## Aceitação dos Termos
-Ao utilizar os serviços do Palpitero FC, você concorda em estar vinculado a estes Termos e Condições. Se não concordar com algum dos termos aqui estabelecidos, recomendamos que não utilize nossos serviços.
+---
 
-## Modificações dos Termos
-Reservamo-nos o direito de alterar ou atualizar estes Termos a qualquer momento, sem aviso prévio. As alterações entrarão em vigor imediatamente após a publicação no nosso site. É sua responsabilidade revisar os Termos periodicamente.
+## 1. Elegibilidade, Responsabilidade e Conformidade Legal
+1.1 **Idade** Para criar conta é necessário ter 18 anos completos **ou** ser maior de idade segundo a legislação local.  
+1.2 **Conformidade local** O Palpitero é distribuído mundialmente. Cada usuário é responsável por assegurar que o uso do app não fira leis, regulamentos ou restrições de seu país/estado/cidade, sobretudo normas sobre jogos, concursos, privacidade e conteúdo.  
+1.3 **Caráter recreativo** Todas as competições internas têm caráter **estritamente recreativo**. Não há cobrança de taxa compulsória nem promessa de retorno financeiro.  
 
-## Uso dos Serviços
+## 2. Cadastro, Segurança e Contas
+2.1 Você deve fornecer informações verdadeiras e mantê-las atualizadas.  
+2.2 Suas credenciais são pessoais e intransferíveis. Você se compromete a mantê-las em sigilo e notificar o Palpitero imediatamente sobre qualquer uso não autorizado.  
+2.3 Podemos suspender ou encerrar contas a nosso critério, sem necessidade de aviso prévio, em caso de (i) violação destes Termos; (ii) suspeita de fraude ou manipulação; (iii) exigência legal.
 
-- **Elegibilidade:** Para utilizar nossos serviços, você deve ter pelo menos 18 anos ou ser maior de idade na sua jurisdição.
-- **Cadastro:** Algumas funcionalidades podem exigir a criação de uma conta. Você é responsável por manter a confidencialidade das suas credenciais de acesso.
-- **Conduta do Usuário:** Você concorda em não utilizar os serviços para fins ilegais ou não autorizados. É proibido violar quaisquer leis em sua jurisdição ao utilizar o Palpitero FC.
+## 3. Funcionalidades Principais
+3.1 **Palpites e Pontuação** Os pontos são calculados conforme regras descritas no aplicativo e podem ser alterados a qualquer momento, sem obrigação de aviso prévio.  
+3.2 **Chats e Fotos** O app contém chats públicos/privados e upload de imagens. Qualquer conteúdo enviado é de **exclusiva responsabilidade** do usuário que o publicou.  
+3.3 **Grupos** Usuários podem criar grupos, nomear administradores e definir recompensas próprias. **Essas recompensas não são administradas, patrocinadas nem garantidas pelo Palpitero**, e eventuais litígios correrão somente entre participantes e organizadores do grupo.  
+3.4 **Premiações Globais** Prêmios oferecidos diretamente pelo Palpitero (quando existirem) serão anunciados no próprio app, podem variar mensalmente e estão sujeitos a: (i) disponibilidade de estoque; (ii) requisitos específicos (ex.: verificação de identidade); (iii) cumprimento de normas fiscais e cambiais aplicáveis. Reservamo-nos o direito de cancelar, modificar ou substituir qualquer prêmio a qualquer momento.  
+3.5 **Moedas Virtuais** O Palpitero pode conceder moedas ou itens virtuais (“Coins”). Coins **não têm valor monetário**, são intransferíveis e podem ser resetados ou extintos sem indenização.
 
-## Propriedade Intelectual
-Todo o conteúdo disponível nos serviços, incluindo textos, imagens, gráficos, logos e software, é propriedade do Palpitero FC ou de seus licenciadores e está protegido por leis de direitos autorais e propriedade intelectual. É proibido reproduzir, distribuir ou criar obras derivadas sem autorização prévia.
+## 4. Licença Limitada e Propriedade Intelectual
+4.1 Nós lhe concedemos uma licença **revogável, não exclusiva, intransferível** e limitada para uso pessoal e não comercial do app.  
+4.2 Todo o software, marcas, logotipos, layouts e demais conteúdos originais pertencem ao Palpitero ou a terceiros licenciadores. Qualquer uso fora do escopo desta licença carece de autorização por escrito.  
+4.3 **Conteúdo do Usuário** Você mantém todos os direitos sobre textos, imagens e materiais enviados, mas concede ao Palpitero licença mundial, gratuita e perpétua para armazenar, reproduzir, adaptar e exibir esse conteúdo dentro de nossos serviços, inclusive em campanhas de marketing internas e externas.
 
-## Limitação de Responsabilidade
-O Palpitero FC não será responsável por quaisquer danos diretos, indiretos, incidentais, especiais ou consequentes decorrentes do uso ou incapacidade de uso dos nossos serviços.
+## 5. Conduta Proibida
+É vedado, entre outros:
+- Violar leis ou direitos de terceiros (inclusive direitos autorais, privacidade ou imagem).  
+- Publicar discurso de ódio, conteúdo sexual explícito, violento ou difamatório.  
+- Fomentar jogos de azar, apostas ou esquemas de pirâmide.  
+- Explorar falhas, automatizar palpites, falsificar resultados ou manipular pontuações.  
+- Usar nomes, avatares ou descrições ofensivos ou que induzam terceiros a erro.  
 
-## Isenção de Garantias
-Os serviços são fornecidos "como estão" e "conforme disponíveis". Não garantimos que os serviços serão ininterruptos, livres de erros ou seguros.
+**Violação sujeita a: remoção de conteúdo, suspensão, banimento e/ou denúncia às autoridades competentes.**
 
-## Links para Sites de Terceiros
-Nosso site pode conter links para sites ou serviços de terceiros que não são controlados pelo Palpitero FC. Não nos responsabilizamos pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.
+## 6. Privacidade
+O tratamento de dados pessoais segue a **Política de Privacidade** disponível no app e no site. Usamos bases legais previstas em legislações como a LGPD (Brasil) e o GDPR (União Europeia). Ao usar o Palpitero, você consente com essas práticas.
 
-## Privacidade
-A coleta e o uso de informações pessoais estão sujeitos à nossa Política de Privacidade, que é incorporada a estes Termos por referência.
+## 7. Isenção de Garantias
+O Palpitero é fornecido **“no estado em que se encontra”** e **“conforme disponível”**. Não garantimos que (i) o serviço será ininterrupto, livre de erros ou seguro; (ii) os resultados serão precisos ou confiáveis; (iii) quaisquer falhas serão corrigidas. Na máxima extensão permitida por lei, **renunciamos a todas as garantias**, expressas ou implícitas.
 
-## Indenização
-Você concorda em indenizar e isentar o Palpitero FC de quaisquer reivindicações, danos, perdas ou despesas decorrentes do seu uso dos serviços ou violação destes Termos.
+## 8. Limitação de Responsabilidade
+Na medida máxima permitida pela legislação aplicável, o Palpitero **não será responsável** por danos diretos, indiretos, incidentais, consequenciais, lucros cessantes ou perda de dados decorrentes do uso ou impossibilidade de uso do serviço, inclusive responsabilidade por (i) conteúdo de usuários; (ii) disputas entre usuários; (iii) prêmios não entregues por terceiros; (iv) eventos de força maior.
 
-## Rescisão
-Podemos encerrar ou suspender seu acesso aos serviços a qualquer momento, sem aviso prévio, se você violar estes Termos ou por qualquer outro motivo a nosso critério.
+## 9. Indenização
+Você concorda em **indenizar** e manter indene o Palpitero, seus sócios, diretores, colaboradores e parceiros por quaisquer reclamações, perdas, custos e honorários advocatícios resultantes de: (i) uso não autorizado do serviço; (ii) violação destes Termos; (iii) violação de direitos de terceiros.
 
-## Premiações
-As premiações somente serão efetuadas em períodos que possuam ao menos 10 jogos. Em caso de empate entre os vencedores, o prêmio será dividido igualmente.
+## 10. Atualizações, Suspensão e Encerramento
+10.1 Podemos modificar, suspender ou encerrar o serviço (ou parte dele) a qualquer momento, por razões técnicas, legais ou comerciais.  
+10.2 Podemos atualizar estes Termos mediante publicação da nova versão no aplicativo ou no site. **O uso contínuo após a alteração implica aceitação automática.**
 
-## Conduta e Segurança da Conta
-Nomes e fotos ofensivas são estritamente proibidos. O uso de conteúdo ofensivo pode resultar no banimento imediato da conta.
+## 11. Resolução de Disputas
+11.1 **Lei Aplicável** Estes Termos são regidos pelas leis da República Federativa do Brasil.  
+11.2 **Foro** Fica eleito o Foro da Comarca de São Paulo/SP, Brasil, com renúncia a qualquer outro, por mais privilegiado que seja.  
+11.3 **Arbitragem Opcional** Para usuários fora do Brasil, poderemos optar por resolução via **Câmara de Arbitragem e Mediação** a nosso exclusivo critério, conforme regras então vigentes.
 
-## Lei Aplicável
-Estes Termos serão regidos e interpretados de acordo com as leis do [inserir país/estado], sem consideração aos princípios de conflitos de leis.
+## 12. Disposições Finais
+- 12.1 **Integralidade** Estes Termos, a Política de Privacidade e demais políticas referenciadas constituem o acordo completo entre você e o Palpitero.  
+- 12.2 **Severabilidade** Se alguma cláusula for considerada inválida, as demais permanecerão em pleno vigor.  
+- 12.3 **Renúncia** Nossa eventual tolerância a infrações não implica renúncia a direitos.  
+- 12.4 **Cessão** Podemos ceder nossos direitos e obrigações a terceiros, total ou parcialmente, mediante simples comunicação no app.
 
-## Disposições Gerais
+## 13. Contato Oficial
+- **E-mail de Suporte:** suporte@palpitero.com  
+- **Endereço Comercial:** Avenida Exemplo, 1234 – São Paulo, SP – Brasil (CEP 00000-000)  
 
-- **Totalidade do Acordo:** Estes Termos constituem o acordo integral entre você e o Palpitero FC em relação ao uso dos serviços.
-- **Renúncia e Separabilidade:** A falha em exercer ou fazer cumprir qualquer direito ou disposição destes Termos não constituirá uma renúncia de tal direito ou disposição. Se qualquer disposição destes Termos for considerada inválida, as demais disposições permanecerão em pleno vigor e efeito.
+---
 
-## Contato
-Se você tiver dúvidas ou preocupações sobre estes Termos, entre em contato conosco:
-- **E-mail:** contato@koppler.com.br
-
-## Alterações nos Termos
-Reservamo-nos o direito de modificar estes Termos a qualquer momento. Notificaremos sobre quaisquer alterações significativas através do nosso site ou por outros meios de comunicação apropriados.
-
-## Política de Coincidências e Disputas
-Em caso de suspeita de fraude, manipulação de resultados ou qualquer prática que desvirtue a natureza recreativa do Palpitero FC, nos reservamos o direito de investigar e, se necessário, suspender ou encerrar a conta do usuário envolvido. A integridade dos resultados e das competições é de extrema importância para garantir um ambiente justo para todos os usuários.
-
-## Moedas e Recompensas
-O Palpitero FC poderá oferecer moedas virtuais e outras recompensas no aplicativo, que podem ser utilizadas para funcionalidades adicionais, como espiar palpites de outros usuários. As moedas virtuais não têm valor monetário e não podem ser trocadas por dinheiro ou qualquer bem fora do ambiente do Palpitero FC.
-
-## Limitações de Uso e Penalidades
-Usuários que tentarem explorar falhas ou vulnerabilidades do sistema para obter vantagem indevida, ganhar recompensas ou manipular resultados, serão penalizados, podendo sofrer suspensão temporária ou permanente, dependendo da gravidade da infração.
-
-## Reportar Abusos ou Problemas
-Caso você encontre problemas técnicos, abusos de outros usuários, ou qualquer atividade que infrinja estes Termos, entre em contato imediatamente através do nosso suporte. Estamos comprometidos em manter uma plataforma segura e justa para todos.
-
-## Histórico de Alterações dos Termos
-Manteremos um histórico das principais alterações realizadas nos Termos e Condições de Uso, para que você possa acompanhar as atualizações e entender as mudanças que possam impactar o uso dos nossos serviços. Aconselhamos a revisar regularmente para garantir conformidade com as novas diretrizes.
-
-## Considerações Finais
-Ao aceitar e utilizar o Palpitero FC, você reconhece estar ciente das regras e políticas descritas neste documento. Nossa equipe está comprometida em fornecer um ambiente de entretenimento saudável e justo para todos. Qualquer infração ou tentativa de violação dos Termos será tratada com a devida seriedade para garantir a segurança da comunidade Palpitero.
-
-Estes Termos e Condições têm o objetivo de proteger tanto o Palpitero FC quanto os usuários, assegurando uma experiência de uso segura, justa e agradável. Agradecemos sua participação e seu compromisso com as diretrizes estabelecidas.
+**Ao continuar, você declara que leu, compreendeu e concorda com estes Termos.** Em caso de dúvidas, entre em contato conosco antes de usar o serviço.
